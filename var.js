@@ -1,7 +1,7 @@
 const odd = '홀수입니다';
 const even = '짝수입니다';
 
-MediaSourceHandle.exports = {
+module.exports = {
     odd,
     even,
 };
